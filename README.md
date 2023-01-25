@@ -25,7 +25,7 @@ Check out my GitHub Profile: www.github.com/rdemboski
 
 
 ## Java GUI Application With Backend - Enroll Students Into College Classes
-
+**stub**
 
 
 ## Data Structures & Computer Algorithms
