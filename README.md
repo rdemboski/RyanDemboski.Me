@@ -22,6 +22,10 @@ Check out my GitHub Profile: www.github.com/rdemboski
 **stub**
 
 
+## Panda3D Video Game Development (Python, Astron Server)
+**stub**
+
+
 ## Social Square - Event Organizing Platform
 **stub**
 
