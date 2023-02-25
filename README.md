@@ -38,7 +38,7 @@ This was a project for NAU's SOftware Engineering course. I took it my Junior ye
 
 It is an ASP.NET Core application that uses an MVC architecture. It also used Razor web pages for CSHTML functionality.
 
-[![Social Square Video Demo]({social_square_thumbnail.jpg})]({https://www.youtube.com/watch?v=KJd9zgTQ4Zc} "Social Square Demo")
+[![Social Square Video Demo](https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg)](https://www.youtube.com/watch?v=KJd9zgTQ4Zc)
 
 ## Java GUI Application With Backend - Enroll Students Into College Classes
 **stub**
