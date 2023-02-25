@@ -45,7 +45,12 @@ Check out the demo video below!
 [![Social Square Video Demo](https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg)](https://www.youtube.com/watch?v=KJd9zgTQ4Zc)
 
 ## Java GUI Application With Backend - Enroll Students Into College Classes
-**stub**
+
+This was my final project for my Database Systems course at NAU. I took it during my Sophomore year. In this project I learned how to utilize Java to make a full stack GUI application. In this case I was using MySQL and phpMyAdmin as the database system.
+
+Check out the demo video below!
+
+[![Java GUI Video Demo](https://img.youtube.com/vi/_4gTqUq_6dk/0.jpg)](https://www.youtube.com/watch?v=_4gTqUq_6dk)
 
 
 ## Data Structures & Computer Algorithms
