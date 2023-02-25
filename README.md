@@ -15,9 +15,7 @@ Check out my GitHub Profile: www.github.com/rdemboski
 
 In this project, I have taken the role of Team Lead for our team GreenAZ. The mission of the project is to develop a web visualization system with a MEAN stack application, and GIS mapping technologies. It will be deployed with Podman/Docker.
 
-<video width="320" height="240" controls>
-  <source src="GreenAZ_Video.mp4" type="video/mp4">
-</video>
+[![GreenAZ Team Video](https://img.youtube.com/vi/ofiVOZFJ18U/0.jpg)](https://www.youtube.com/watch?v=ofiVOZFJ18U)
 
 View the pre-development website here: https://ceias.nau.edu/capstone/projects/CS/2022/GreenAZ_F22/
 
