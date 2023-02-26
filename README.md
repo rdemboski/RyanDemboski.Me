@@ -42,7 +42,17 @@ It is an ASP.NET Core application that uses an MVC architecture. It also used Ra
 
 Check out the demo video below!
 
-[![Social Square Video Demo](https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg)](https://www.youtube.com/watch?v=KJd9zgTQ4Zc)
+[![Social Square Video Demo](https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg)](https://www.youtube.com/watch?v=KJd9zgTQ4Zc)'
+
+
+## Java Web Socket Server
+
+This was a project I completed last semester for my Computer Networks class. I learned how to use Java Sockets to create a web server that can GET/POST HTTP requests. I used several console logs to show when a client connects, what the HTTP packets are
+
+Check out the demo video below!
+
+[![Java Socket Server Demo](https://img.youtube.com/vi/T_ncqnpidnI/0.jpg)](https://www.youtube.com/watch?v=T_ncqnpidnI)
+
 
 ## Java GUI Application With Backend - Enroll Students Into College Classes
 
