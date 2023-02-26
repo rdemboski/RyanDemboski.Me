@@ -24,11 +24,27 @@ When the project is complete, it will be accessible for the public to test here:
 
 
 ## Operating System Simulator
-**stub**
+
+This was a complex command line project written in C and excuted within a Linux terminal. 
+
+The program provides a real-time simulation of an operating system using a meta-data file filled with operation codes of any size and any order. A configuration file is also used to determine the output method and other details. All string utilities are written from scratch. Uses threading, various CPU scheduling techniques, memory management, and PCBs (process control blocks).
+
+Demonstrated program operation:
+
+**Link goes here**
+
+Github repository: *available upon request*
 
 
 ## ASP.NET Web Forms With Camstar API & Backend
-**stub**
+
+<img src="wl-gore-logo.jpeg"/>
+
+This was my summer project during my internship last year. I worked with full-time Camstar MES specialists and database administrators, while I developed new functionality into an existing full-stack enterprise application. During my time with this company I gained professional experience with ASP.NET, C#, HTML/CSS/jQuery, and MSSQL.
+
+Unfortunately I cannot provide videos, pictures, or sample code of this project as it is confidential, but I am more than happy to discuss more about the skills that I gained from this experience.
+
+**Note:** At the end of this internship I also lent my help to another application that ran Node.js, React, Express.js, and MongoDB. This is what gave me inspiration to persuit this tech stack for my capstone project, because I really enjoyed learning about it.
 
 
 ## Panda3D Video Game Development (Python, Astron Server)
@@ -56,7 +72,7 @@ Check out the demo video below!
 
 [![Java Socket Server Demo](https://img.youtube.com/vi/T_ncqnpidnI/0.jpg)](https://www.youtube.com/watch?v=T_ncqnpidnI)
 
-Github repository: N/A
+Github repository: https://github.com/rdemboski/Java-Practice/tree/main/web-assignment-1
 
 
 ## Java GUI Application With Backend - Enroll Students Into College Classes
