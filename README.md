@@ -11,7 +11,7 @@ Also, here's my LinkedIn. Feel free to connect with me over there!: <button clas
 
 <br>
 
-# Social Skills I Will Provide You
+# Personal Skills I Will Provide You
 
 <ul>
   <li>Works well independently or in a team</li>
