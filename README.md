@@ -33,7 +33,7 @@ And, most importantly of all:
   <li>.NET Core (C#)</li>
   <li>Java (Full-Stack)</li>
   <li>Python3 (Full-Stack)</li>
-  <li>MEAN (MongoDB, ExpressJS, Angular, NodeJS)</li>
+  <li>MEAN (MongoDB, ExpressJS, Angular/React, NodeJS)</li>
   <li>Frontend Skills (HTML, CS, JS)
   <li>Relational AND NoSQL Database Systems</li>
 </ul>
