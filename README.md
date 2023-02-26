@@ -20,7 +20,9 @@ In this project, I have taken the role of Team Lead for our team GreenAZ. The mi
 
 View the pre-development website here: https://ceias.nau.edu/capstone/projects/CS/2022/GreenAZ_F22/
 
-When the project is complete, it will be accessible for the public to test here: https://ceias.nau.edu/circularize/ 
+When the project is complete, it will be accessible for the public to test here: https://ceias.nau.edu/circularize/
+
+Github organization: https://github.com/circularize
 
 
 ## Operating System Simulator
