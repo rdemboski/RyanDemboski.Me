@@ -7,6 +7,8 @@ Check out my GitHub Profile: https://github.com/rdemboski
 
 Also, here's my LinkedIn. Feel free to connect with me over there!: https://www.linkedin.com/in/ryan-demboski/
 
+I'm currently looking for software development opportunities where I can make meaningful contributions and show what I'm capable of. Either remote work, or work on-site in Arizona or Michigan.
+
 
 # Projects I've Worked On:
 
