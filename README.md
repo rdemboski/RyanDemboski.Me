@@ -3,16 +3,17 @@
 
 Welcome! This is my personal website where you can see some of the different projects that I worked on while at University and in my free time. Thanks for looking!
   
-Check out my GitHub Profile: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski,'_blank')"> My Github</button>
+Check out my GitHub Profile: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski','_blank')"> My Github</button>
 
-Also, here's my LinkedIn. Feel free to connect with me over there!: <button class="btn btn-success" onclick=" window.open('https://www.linkedin.com/in/ryan-demboski/,'_blank')"> My LinkedIn</button>
+Also, here's my LinkedIn. Feel free to connect with me over there!: <button class="btn btn-success" onclick=" window.open('https://www.linkedin.com/in/ryan-demboski/','_blank')"> My LinkedIn</button>
 
 I'm currently looking for software development opportunities! Either remote work, or work on-site in Arizona or Michigan.
 
+<br>
 
 # Projects I've Worked On:
 
-<br><br>
+<br>
 
 ## NAU Senior Capstone Project
 **Under active development, final prototype due Week of 3/20**
@@ -21,11 +22,11 @@ In this project, I have taken the role of Team Lead for our team GreenAZ. The mi
 
 [![GreenAZ Team Video](https://img.youtube.com/vi/ofiVOZFJ18U/0.jpg)](https://www.youtube.com/watch?v=ofiVOZFJ18U)
 
-View the pre-development website here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/capstone/projects/CS/2022/GreenAZ_F22/,'_blank')"> Team Website</button>
+View the pre-development website here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/capstone/projects/CS/2022/GreenAZ_F22/','_blank')"> Team Website</button>
 
-When the project is complete, it will be accessible for the public to test here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/circularize/,'_blank')"> Project Website</button>
+When the project is complete, it will be accessible for the public to test here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/circularize/','_blank')"> Project Website</button>
 
-Github organization: <button class="btn btn-success" onclick=" window.open('https://github.com/circularize,'_blank')"> Project Repo</button>
+Github organization: <button class="btn btn-success" onclick=" window.open('https://github.com/circularize','_blank')"> Project Repo</button>
 
 <br><br>
 
@@ -65,7 +66,7 @@ Check out the demo video below!
 
 [![Social Square Video Demo](https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg)](https://www.youtube.com/watch?v=KJd9zgTQ4Zc)
 
-Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/cs386_Group3,'_blank')"> Project Repo</button>
+Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/cs386_Group3','_blank')"> Project Repo</button>
 
 <br><br>
 
@@ -77,7 +78,7 @@ Check out the demo video below!
 
 [![Java Socket Server Demo](https://img.youtube.com/vi/T_ncqnpidnI/0.jpg)](https://www.youtube.com/watch?v=T_ncqnpidnI)
 
-Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Java-Practice/tree/main/web-assignment-1,'_blank')"> Project Repo</button>
+Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Java-Practice/tree/main/web-assignment-1','_blank')"> Project Repo</button>
 
 <br><br>
 
@@ -89,7 +90,7 @@ Check out the demo video below!
 
 [![Java GUI Video Demo](https://img.youtube.com/vi/_4gTqUq_6dk/0.jpg)](https://www.youtube.com/watch?v=_4gTqUq_6dk)
 
-Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Java-Practice/tree/main/EnrollmentApplication,'_blank')"> Project Repo</button>
+Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Java-Practice/tree/main/EnrollmentApplication','_blank')"> Project Repo</button>
 
 <br><br>
 
@@ -105,4 +106,4 @@ I'm very involved on **LeetCode**, Daily Algorithm Problem websites, and activel
 
 Lastly, *I helped tutor the Data Structures course at NAU for 3 years* (CS-249).
 
-Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Class-Projects/tree/master/Data%20Structures%20%26%20Algorithms,'_blank')"> Project Repo</button>
+Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Class-Projects/tree/master/Data%20Structures%20%26%20Algorithms','_blank')"> Project Repo</button>
