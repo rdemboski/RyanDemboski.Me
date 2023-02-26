@@ -90,12 +90,12 @@ Github repository: https://github.com/rdemboski/Java-Practice/tree/main/Enrollme
 
 <img src="datastructs.jpeg" width="450" height="250" />
 
-I took a Data Structures course my Sophomore year, and I'm currently taking Algorithms during my final semester. In these classes I've learned the basics of the most common data structures, and how to use them to solve complex algorithm puzzles with code. In these classes, we used Java and C for our solutions.
+I took a Data Structures course my Sophomore year, and I'm currently taking Algorithms during my final semester. In these classes I've learned the basics of the most common data structures, and how to use them to solve complex algorithm puzzles with code. In these classes, we used **Java and C** for our solutions, but since then I've done most of my independent practice with **Python3**.
 
 Also, we were taught about **Big-O notation**, **Time and Space complexity**, and **Best/Worst case scenarios**.
 
-I'm very involved on LeetCode, Daily Algorithm Problem websites, and actively participate in mock interviews to continue to brush my skills on these essential topics.
+I'm very involved on **LeetCode**, Daily Algorithm Problem websites, and actively participate in **mock interviews** to continue to brush my skills on these essential topics.
 
-Lastly, *helped tutor the Data Structures course at NAU for 3 years* (CS-249).
+Lastly, *I helped tutor the Data Structures course at NAU for 3 years* (CS-249).
 
 Github repository: https://github.com/rdemboski/Class-Projects/tree/master/Data%20Structures%20%26%20Algorithms
