@@ -81,3 +81,5 @@ Also, we were taught about Big-O notation, Time and Space complexity, and Best/W
 I'm very involved on LeetCode, Daily Algorithm Problem websites, and actively participate in mock interviews to continue to brush my skills on these essential topics.
 
 Lastly, I helped tutor the Data Structures course at NAU for 3 years (CS-249).
+
+Github repository: https://github.com/rdemboski/Class-Projects/tree/master/Data%20Structures%20%26%20Algorithms
