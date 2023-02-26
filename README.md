@@ -1,5 +1,5 @@
 # Ryan Demboski's Portfolio
-![Image of Ryan](ryan.png) Senior Year Computer Science Major. Graduate May 2023!
+![Image of Ryan](ryan.png) Senior Year CS Major. Graduate May 2023!
 
 Welcome! This is my personal website where you can see some of the different projects that I worked on while at University and in my free time. Thanks for looking!
   
