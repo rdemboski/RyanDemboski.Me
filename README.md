@@ -38,7 +38,7 @@ Github repository: *available upon request*
 
 ## ASP.NET Web Forms With Camstar API & Backend
 
-<img src="wl-gore-logo.jpg"/>
+<img src="wl-gore-logo.jpg" width="450" length="250"/>
 
 This was my summer project during my internship last year. I worked with full-time Camstar MES specialists and database administrators, while I developed new functionality into an existing full-stack enterprise application. During my time with this company I gained professional experience with ASP.NET, C#, HTML/CSS/jQuery, and MSSQL.
 
