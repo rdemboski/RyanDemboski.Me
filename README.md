@@ -34,7 +34,7 @@ And, most importantly of all:
   <li>Java (Full-Stack)</li>
   <li>Python3 (Full-Stack)</li>
   <li>MEAN (MongoDB, ExpressJS, Angular/React, NodeJS)</li>
-  <li>Frontend Skills (HTML, CS, JS)
+  <li>Frontend Skills (HTML, CS, JS)</li>
   <li>Relational AND NoSQL Database Systems</li>
 </ul>
 
