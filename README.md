@@ -20,7 +20,9 @@ I'm currently looking for software development opportunities! Either remote work
 
 In this project, I have taken the role of Team Lead for our team GreenAZ. The mission of the project is to develop a web visualization system with a MEAN stack **(MongoDB, Express.js, Angular, Node.js)** application, and **GIS mapping** technologies. It will be deployed with **Podman/Docker**.
 
-[![GreenAZ Team Video](https://img.youtube.com/vi/ofiVOZFJ18U/0.jpg)](https://www.youtube.com/watch?v=ofiVOZFJ18U)
+GreenAZ Team Video:
+
+<a href="https://www.youtube.com/watch?v=ofiVOZFJ18U" target="_blank"><img src="https://img.youtube.com/vi/ofiVOZFJ18U/0.jpg"></a>
 
 View the pre-development website here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/capstone/projects/CS/2022/GreenAZ_F22/','_blank')"> Team Website</button>
 
@@ -64,7 +66,7 @@ It is an **ASP.NET Core** application that uses an **MVC** architecture. It also
 
 Check out the demo video below!
 
-[![Social Square Video Demo](https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg)](https://www.youtube.com/watch?v=KJd9zgTQ4Zc)
+<a href="https://www.youtube.com/watch?v=KJd9zgTQ4Zc" target="_blank"><img src="https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg"></a>
 
 <button type="submit"><img src="https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg" target="_blank" alt="Social Square Video Demo" border="0" /></button>
 
@@ -78,7 +80,7 @@ This was a project I completed last semester for my Computer Networks class. I l
 
 Check out the demo video below!
 
-[![Java Socket Server Demo](https://img.youtube.com/vi/T_ncqnpidnI/0.jpg)](https://www.youtube.com/watch?v=T_ncqnpidnI)
+<a href="https://www.youtube.com/watch?v=T_ncqnpidnI" target="_blank"><img src="https://img.youtube.com/vi/T_ncqnpidnI/0.jpg"></a>
 
 Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Java-Practice/tree/main/web-assignment-1','_blank')"> Project Repo</button>
 
@@ -90,7 +92,7 @@ This was my final project for my Database Systems course at NAU. I took it durin
 
 Check out the demo video below!
 
-[![Java GUI Video Demo](https://img.youtube.com/vi/_4gTqUq_6dk/0.jpg)](https://www.youtube.com/watch?v=_4gTqUq_6dk)
+<a href="https://www.youtube.com/watch?v=_4gTqUq_6dk" target="_blank"><img src="https://img.youtube.com/vi/_4gTqUq_6dk/0.jpg"></a>
 
 Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Java-Practice/tree/main/EnrollmentApplication','_blank')"> Project Repo</button>
 
