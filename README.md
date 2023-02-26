@@ -38,7 +38,7 @@ The program provides a real-time simulation of an operating system using a meta-
 
 Check out the demo video below!
 
-<button class="btn btn-success" img="https://img.youtube.com/vi/-vblpR-kpBI/0.jpg" onclick=" window.open('https://www.youtube.com/watch?v=-vblpR-kpBI','_blank')"></button>
+<a img="https://img.youtube.com/vi/-vblpR-kpBI/0.jpg" onclick=" window.open('https://www.youtube.com/watch?v=-vblpR-kpBI','_blank')"></a>
 
 Github repository: *available upon request*
 
