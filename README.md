@@ -38,7 +38,7 @@ The program provides a real-time simulation of an operating system using a meta-
 
 Check out the demo video below!
 
-<a href="https://www.youtube.com/watch?v=-vblpR-kpBI" img="https://img.youtube.com/vi/-vblpR-kpBI/0.jpg" target="_blank"></a>
+<a href="https://www.youtube.com/watch?v=-vblpR-kpBI"><img src="https://img.youtube.com/vi/-vblpR-kpBI/0.jpg" target="_blank"></a>
 
 Github repository: *available upon request*
 
