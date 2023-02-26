@@ -31,7 +31,7 @@ The program provides a real-time simulation of an operating system using a meta-
 
 Demonstrated program operation:
 
-**Link goes here**
+[![Operating System Simulator Demo](https://img.youtube.com/vi/-vblpR-kpBI/0.jpg)](https://www.youtube.com/watch?v=-vblpR-kpBI)
 
 Github repository: *available upon request*
 
@@ -47,10 +47,6 @@ Unfortunately I cannot provide videos, pictures, or sample code of this project 
 **Note:** At the end of this internship I also lent my help to another application that ran Node.js, React, Express.js, and MongoDB. This is what gave me inspiration to persuit this tech stack for my capstone project, because I really enjoyed learning about it.
 
 
-## Panda3D Video Game Development (Python, Astron Server)
-**stub**
-
-
 ## Social Square - Event Organizing Platform
 
 This was a project for NAU's Software Engineering course. I took it my Junior year.
@@ -59,7 +55,7 @@ It is an ASP.NET Core application that uses an MVC architecture. It also used Ra
 
 Check out the demo video below!
 
-[![Social Square Video Demo](https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg)](https://www.youtube.com/watch?v=KJd9zgTQ4Zc)'
+[![Social Square Video Demo](https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg)](https://www.youtube.com/watch?v=KJd9zgTQ4Zc)
 
 Github repository: https://github.com/rdemboski/cs386_Group3
 
