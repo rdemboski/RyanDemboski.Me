@@ -3,7 +3,7 @@
 
 Welcome! This is my personal website where you can see some of the different projects that I worked on while at University and in my free time. Thanks for looking!
   
-Check out my GitHub Profile: [Click here](https://github.com/rdemboski)
+Check out my GitHub Profile: <button class="btn btn-success" onclick=" window.open('http://google.com','_blank')"> Google</button>
 
 Also, here's my LinkedIn. Feel free to connect with me over there!: https://www.linkedin.com/in/ryan-demboski/
 
