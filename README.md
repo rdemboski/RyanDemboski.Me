@@ -12,6 +12,7 @@ I'm currently looking for software development opportunities! Either remote work
 
 # Projects I've Worked On:
 
+<br><br>
 
 ## NAU Senior Capstone Project
 **Under active development, final prototype due Week of 3/20**
@@ -26,6 +27,7 @@ When the project is complete, it will be accessible for the public to test here:
 
 Github organization: <button class="btn btn-success" onclick=" window.open('https://github.com/circularize,'_blank')"> Project Repo</button>
 
+<br><br>
 
 ## Operating System Simulator
 
@@ -39,6 +41,7 @@ Demonstrated program operation:
 
 Github repository: *available upon request*
 
+<br><br>
 
 ## ASP.NET Web Forms With Camstar API & Backend
 
@@ -50,6 +53,7 @@ Unfortunately I cannot provide videos, pictures, or sample code of this project 
 
 **Note:** At the end of this internship I also lent my help to another application that ran **Node.js, React, Express.js, and MongoDB**. This is what gave me inspiration to persuit this tech stack for my capstone project, because I really enjoyed learning about it.
 
+<br><br>
 
 ## Social Square - Event Organizing Platform
 
@@ -63,6 +67,7 @@ Check out the demo video below!
 
 Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/cs386_Group3,'_blank')"> Project Repo</button>
 
+<br><br>
 
 ## Java Web Socket Server
 
@@ -74,6 +79,7 @@ Check out the demo video below!
 
 Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Java-Practice/tree/main/web-assignment-1,'_blank')"> Project Repo</button>
 
+<br><br>
 
 ## Java GUI Application With Backend - Enroll Students Into College Classes
 
@@ -85,6 +91,7 @@ Check out the demo video below!
 
 Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/Java-Practice/tree/main/EnrollmentApplication,'_blank')"> Project Repo</button>
 
+<br><br>
 
 ## Data Structures & Algorithms
 
