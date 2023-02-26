@@ -36,9 +36,9 @@ This was a complex command line project **written in C** and excuted within a **
 
 The program provides a real-time simulation of an operating system using a meta-data file filled with operation codes of any size and any order. A configuration file is also used to determine the output method and other details. All string utilities are written from scratch. **Uses threading, various CPU scheduling techniques, memory management, and PCBs (process control blocks)**.
 
-Demonstrated program operation:
+Check out the demo video below!
 
-[![Operating System Simulator Demo](https://img.youtube.com/vi/-vblpR-kpBI/0.jpg)](https://www.youtube.com/watch?v=-vblpR-kpBI)
+button class="btn btn-success" img="https://img.youtube.com/vi/-vblpR-kpBI/0.jpg" onclick=" window.open('https://www.youtube.com/watch?v=-vblpR-kpBI','_blank')"></button>
 
 Github repository: *available upon request*
 
@@ -65,6 +65,8 @@ It is an **ASP.NET Core** application that uses an **MVC** architecture. It also
 Check out the demo video below!
 
 [![Social Square Video Demo](https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg)](https://www.youtube.com/watch?v=KJd9zgTQ4Zc)
+
+<button type="submit"><img src="https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg" target="_blank" alt="Social Square Video Demo" border="0" /></button>
 
 Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/cs386_Group3','_blank')"> Project Repo</button>
 
