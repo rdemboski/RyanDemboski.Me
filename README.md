@@ -7,7 +7,36 @@ Check out my GitHub Profile: <button class="btn btn-success" onclick=" window.op
 
 Also, here's my LinkedIn. Feel free to connect with me over there!: <button class="btn btn-success" onclick=" window.open('https://www.linkedin.com/in/ryan-demboski/','_blank')"> My LinkedIn</button>
 
-I'm currently looking for software development opportunities! Either remote work, or work on-site in Arizona or Michigan.
+**I'm currently looking for software development opportunities!** Either remote work, or work on-site in Arizona or Michigan.
+
+<br>
+
+# Social Skills I Will Provide You
+
+<ul>
+  <li>Works well independently or in a team</li>
+  <li>Excellent communicator</li>
+  <li>Strong work ethic</li>
+  <li>Knows when to ask for help</li>
+</ul>
+
+And, most importantly of all:
+<ul>
+  <li>Dependable</li>
+</ul>
+
+<br>
+
+# Technical Skills I Will Provide You
+
+<ul>
+  <li>.NET Core (C#)</li>
+  <li>Java (Full-Stack)</li>
+  <li>Python3 (Full-Stack)</li>
+  <li>MEAN (MongoDB, ExpressJS, Angular, NodeJS)</li>
+  <li>Frontend Skills (HTML, CS, JS)
+  <li>Relational AND NoSQL Database Systems</li>
+</ul>
 
 <br>
 
