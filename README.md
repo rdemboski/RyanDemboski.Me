@@ -14,7 +14,7 @@ Also, here's my LinkedIn. Feel free to connect with me over there!: https://www.
 ## NAU Senior Capstone Project
 **Under active development, final prototype due Week of 3/20**
 
-In this project, I have taken the role of Team Lead for our team GreenAZ. The mission of the project is to develop a web visualization system with a MEAN stack application, and GIS mapping technologies. It will be deployed with Podman/Docker.
+In this project, I have taken the role of Team Lead for our team GreenAZ. The mission of the project is to develop a web visualization system with a MEAN stack (MongoDB, Express.js, Angular, Node.js) application, and GIS mapping technologies. It will be deployed with Podman/Docker.
 
 [![GreenAZ Team Video](https://img.youtube.com/vi/ofiVOZFJ18U/0.jpg)](https://www.youtube.com/watch?v=ofiVOZFJ18U)
 
