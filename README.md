@@ -68,8 +68,6 @@ Check out the demo video below!
 
 <a href="https://www.youtube.com/watch?v=KJd9zgTQ4Zc" target="_blank"><img src="https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg"></a>
 
-<button type="submit"><img src="https://img.youtube.com/vi/KJd9zgTQ4Zc/0.jpg" target="_blank" alt="Social Square Video Demo" border="0" /></button>
-
 Github repository: <button class="btn btn-success" onclick=" window.open('https://github.com/rdemboski/cs386_Group3','_blank')"> Project Repo</button>
 
 <br><br>
