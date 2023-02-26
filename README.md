@@ -72,7 +72,7 @@ Github repository: https://github.com/rdemboski/Java-Practice/tree/main/Enrollme
 
 ## Data Structures & Algorithms
 
-<img src="datastructs.jpeg" width="300" height="250" />
+<img src="datastructs.jpeg" width="450" height="250" />
 
 I took a Data Structures course my Sophomore year, and I'm currently taking Algorithms during my final semester. In these classes I've learned the basics of the most common data structures, and how to use them to solve complex algorithm puzzles with code. In these classes, we used Java and C for our solutions.
 
