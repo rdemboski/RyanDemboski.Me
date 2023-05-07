@@ -52,7 +52,7 @@ In this project, I have taken the role of Team Lead for our team GreenAZ. The mi
 
 Official Project Video:
 
-<a href="https://www.youtube.com/watch?v=OqDte6aC49I" target="_blank"><img src="https://www.youtube.com/watch?v=OqDte6aC49I/0.jpg"></a>
+<a href="https://www.youtube.com/watch?v=OqDte6aC49I" target="_blank"><img src="https://img.youtube.com/vi/OqDte6aC49I/0.jpg"></a>
 
 View our team website here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/capstone/projects/CS/2022/GreenAZ_F22/','_blank')"> Team Website</button>
 
