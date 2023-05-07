@@ -48,7 +48,7 @@ And, most importantly of all:
 
 ## NAU Senior Capstone Project
 
-In this project, I have taken the role of Team Lead for our team GreenAZ. The mission of the project is to develop a web visualization system with a MEAN stack **(MongoDB, Express.js, Angular, Node.js)** application, and **GIS mapping** technologies. It will be deployed with **Podman/Docker**.
+In this project, I have taken the role of Team Lead for our team GreenAZ. The mission of the project was to develop a web visualization system for recycling data. It uses a MEAN architecture **(MongoDB, Express.js, Angular, Node.js)**, and **GIS** technologies such as **QGIS** and **Leaflet**. It was deployed with **Podman**, a derivative of Docker.
 
 Official Project Video:
 
