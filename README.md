@@ -54,9 +54,9 @@ Official Project Video:
 
 <a href="https://www.youtube.com/watch?v=OqDte6aC49I" target="_blank"><img src="https://www.youtube.com/watch?v=OqDte6aC49I/0.jpg"></a>
 
-View the pre-development website here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/capstone/projects/CS/2022/GreenAZ_F22/','_blank')"> Team Website</button>
+View our team website here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/capstone/projects/CS/2022/GreenAZ_F22/','_blank')"> Team Website</button>
 
-When the project is complete, it will be accessible for the public to test here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/circularize/','_blank')"> Project Website</button>
+Check out the live project website here: <button class="btn btn-success" onclick=" window.open('https://ceias.nau.edu/circularize-dev/','_blank')"> Circularize Project</button>
 
 Github organization: <button class="btn btn-success" onclick=" window.open('https://github.com/circularize','_blank')"> Project Repo</button>
 
