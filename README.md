@@ -1,6 +1,7 @@
 # Ryan Demboski's Portfolio
+Computer Science Graduate (Bachelor of Science)  
+  
 ![Image of Ryan](Ryan-Updated.jpg)
-Computer Science Graduate (Bachelor of Science)
 
 Welcome! This is my personal website where you can see some of the different projects that I worked on while at University and in my free time. Thanks for looking!
   
