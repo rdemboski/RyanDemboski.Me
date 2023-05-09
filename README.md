@@ -9,6 +9,8 @@ Check out my GitHub Profile: <button class="btn btn-success" onclick=" window.op
 
 Also, here's my LinkedIn. Feel free to connect with me over there!: <button class="btn btn-success" onclick=" window.open('https://www.linkedin.com/in/ryan-demboski/','_blank')"> My LinkedIn</button>
 
+Email: ryan@demboski.com
+
 **I'm currently looking for software development opportunities!** Either remote work, or work on-site in Arizona or Michigan.
 
 <br>
